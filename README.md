@@ -7,6 +7,7 @@ Capstone project predicting borrower risk (Prime A–C vs Risky D–G) using mul
 - Concept reflection: `report/report_reflection.pdf`
 - Notebook (PDF): `report/report_notebook.pdf`
 - Notebook (HTML): `report/report_notebook.html` (download to view)
+- Notebook (ipynb): notebooks/capstone_notebook_clean.ipynb
 
 ## Highlights
 - Compared Logistic Regression, Decision Tree, Neural Network, and Gradient Boosting on a held-out test set.
